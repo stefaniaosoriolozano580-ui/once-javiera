@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tarjeta Personal - Stefania</title>
+</head>
+<body>
+
+<header>
+  <h1>Stefania</h1>
+  <p><em>Apasionada por la tecnología y el aprendizaje constante</em></p>
+</header>
+
+<main>
+
+  <section>
+    <h2>Sobre mí</h2>
+    <p>
+      Soy estudiante interesada en el desarrollo web y la tecnología.
+      Me gusta aprender cosas nuevas y mejorar mis habilidades cada día.
+    </p>
+
+    <p>
+      Empecé a aprender tecnología y HTML en 
+      <time datetime="2023">2023</time>.
+    </p>
+  </section>
+
+  <section>
+    <h2>Habilidades y Pasatiempos</h2>
+    <ul>
+      <li><strong>HTML básico</strong></li>
+      <li>Escuchar música</li>
+      <li>Aprender nuevas tecnologías</li>
+      <li>Realizar voluntariados</li>
+    </ul>
+  </section>
+
+</main>
+
+<footer>
+  <h3>Contacto</h3>
+  <address>
+    Email: stefania@email.com <br>
+    Ciudad: Medellín, Colombia
+  </address>
+</footer>
+
+</body>
+</html>
